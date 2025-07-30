@@ -103,3 +103,9 @@ AlwaysBreakTemplateDeclarations: Yes
 
 # 命名空间内不进行额外缩进，遵循Google风格。
 NamespaceIndentation: None
+
+# 处理{}内参数一行一个
+AlignAfterOpenBracket: Align
+BinPackArguments: false
+Cpp11BracedListStyle: true
+
