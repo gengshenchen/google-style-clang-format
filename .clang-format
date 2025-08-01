@@ -109,3 +109,5 @@ AlignAfterOpenBracket: Align
 BinPackArguments: false
 Cpp11BracedListStyle: true
 
+# 在末尾保证有一行空行
+InsertNewlineAtEOF: true
